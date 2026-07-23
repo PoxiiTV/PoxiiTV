@@ -9,12 +9,8 @@ cualquiera, no solo alguien técnico. Casi todo en español.
 **[Ruxi-Custom-Rufus](https://github.com/PoxiiTV/Ruxi-Custom-Rufus)** —
 Instalar Windows desde USB con guía paso a paso. `C`
 
-<img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/ruxi.png" alt="Ruxi" width="380" />
-
 **[PoxiOptimizer](https://github.com/PoxiiTV/PoxiOptimizer)** — Optimizar,
 limpiar y reparar Windows 10/11 desde un solo sitio. `TypeScript`
-
-<img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/poxioptimizer.png" alt="PoxiOptimizer" width="720" />
 
 **[HW-Poxi](https://github.com/PoxiiTV/HW-Poxi)** — Monitor de hardware:
 temperatura, frecuencia, voltaje y potencia en tiempo real. `TypeScript`
@@ -22,8 +18,7 @@ temperatura, frecuencia, voltaje y potencia en tiempo real. `TypeScript`
 **[poxifat](https://github.com/PoxiiTV/poxifat)** — Formatea USB y discos a
 FAT32 sin el límite de 32 GB, exFAT o NTFS. `Rust`
 
-*(privado)*
-**TallerGestion** — Programa de gestión para un taller mecánico
+**TallerGestion** *(privado)* — Programa de gestión para un taller mecánico.
 Coches, clientes, piezas, presupuestos y facturación. Incluye facturación
 conforme al RD 1007/2023 (VERI*FACTU): huella SHA-256 encadenada, numeración
 sin huecos y documentos inalterables. Copias cifradas y protección
@@ -38,3 +33,12 @@ TypeScript · React · Electron · Rust · C · Python · Node.js
 
 Abierto a proyectos y oportunidades.
 📧 alexissjuarezz10@gmail.com
+
+---
+
+<p>
+  <img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/poxioptimizer.png" alt="PoxiOptimizer" width="360" />
+  <img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/ruxi.png" alt="Ruxi" width="190" />
+</p>
+
+<sub>PoxiOptimizer y Ruxi</sub>
