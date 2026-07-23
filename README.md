@@ -25,9 +25,25 @@ sin huecos y documentos inalterables. Copias cifradas y protección
 de datos (RGPD).
 `React` · `TypeScript` · `Electron` · `Zustand`
 
-### 🧰 Con qué
+### 🧰 Con qué trabajo
 
-TypeScript · React · Electron · Rust · C · Python · Node.js
+**Lenguajes**
+TypeScript · JavaScript · Rust · C · Python · HTML · CSS
+
+**Interfaz**
+React · React Router · Zustand · CSS moderno, sin frameworks
+
+**Escritorio**
+Electron · Node.js · electron-builder — instaladores y versiones portables
+para Windows
+
+**Herramientas**
+Vite · Vitest · Git · GitHub · npm
+
+**Y además**
+Cifrado AES-256 y firmas SHA-256 · consumo de APIs REST · almacenamiento local
+y copias de seguridad · pruebas automatizadas · normativa española de
+facturación electrónica (VERI*FACTU) y protección de datos (RGPD)
 
 ### 📬 Contacto
 
