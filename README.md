@@ -9,8 +9,12 @@ cualquiera, no solo alguien técnico. Casi todo en español.
 **[Ruxi-Custom-Rufus](https://github.com/PoxiiTV/Ruxi-Custom-Rufus)** —
 Instalar Windows desde USB con guía paso a paso. `C`
 
+<img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/ruxi.png" alt="Ruxi" width="380" />
+
 **[PoxiOptimizer](https://github.com/PoxiiTV/PoxiOptimizer)** — Optimizar,
 limpiar y reparar Windows 10/11 desde un solo sitio. `TypeScript`
+
+<img src="https://raw.githubusercontent.com/PoxiiTV/PoxiiTV/main/img/poxioptimizer.png" alt="PoxiOptimizer" width="720" />
 
 **[HW-Poxi](https://github.com/PoxiiTV/HW-Poxi)** — Monitor de hardware:
 temperatura, frecuencia, voltaje y potencia en tiempo real. `TypeScript`
