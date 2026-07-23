@@ -18,7 +18,8 @@ temperatura, frecuencia, voltaje y potencia en tiempo real. `TypeScript`
 **[poxifat](https://github.com/PoxiiTV/poxifat)** — Formatea USB y discos a
 FAT32 sin el límite de 32 GB, exFAT o NTFS. `Rust`
 
-**TallerGestion** — Programa de gestión para un taller mecánico *(privado)*
+*(privado)*
+**TallerGestion** — Programa de gestión para un taller mecánico
 Coches, clientes, piezas, presupuestos y facturación. Incluye facturación
 conforme al RD 1007/2023 (VERI*FACTU): huella SHA-256 encadenada, numeración
 sin huecos y documentos inalterables. Copias cifradas y protección
