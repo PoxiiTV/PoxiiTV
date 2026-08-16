@@ -6,6 +6,10 @@ cualquiera, no solo alguien técnico. Casi todo en español.
 
 ### 🛠️ En qué trabajo
 
+**[JARVIS](https://github.com/PoxiiTV/JARVIS)** — Mayordomo de escritorio
+con voz, HUD 3D y un agente que actúa en otro PC de la Wi-Fi.
+`Python` · `Electron`
+
 **[Ruxi-Custom-Rufus](https://github.com/PoxiiTV/Ruxi-Custom-Rufus)** —
 Instalar Windows desde USB con guía paso a paso. `C`
 
