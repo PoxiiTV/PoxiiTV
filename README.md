@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/PoxiiTV.png" width="110" height="110" alt="Avatar de PoxiiTV">
-
-### ¡Hola! Soy Alexis 👋
-
 **Desarrollador Full Stack & creador de herramientas para Windows.**
 
 Creo aplicaciones que resuelven problemas reales, con especial atención al rendimiento, la experiencia de usuario y una interfaz limpia.
@@ -12,20 +6,28 @@ Creo aplicaciones que resuelven problemas reales, con especial atención al rend
 
 **● Disponible para proyectos freelance y colaboraciones**
 
-</div>
-
 ---
 
 ## 🧰 Stack principal
 
-<div align="center">
-
-| | | | | |
-|---|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/typescript/3178c6" width="26"><br><sub><b>TypeScript</b></sub> | <img src="https://cdn.simpleicons.org/rust/000000" width="26"><br><sub><b>Rust</b></sub> | <img src="https://cdn.simpleicons.org/electron/47848f" width="26"><br><sub><b>Electron</b></sub> | <img src="https://cdn.simpleicons.org/react/61dafb" width="26"><br><sub><b>React</b></sub> | <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="26"><br><sub><b>Node.js</b></sub> |
-| <img src="https://cdn.simpleicons.org/python/3776ab" width="26"><br><sub><b>Python</b></sub> | <img src="https://cdn.simpleicons.org/c/959595" width="26"><br><sub><b>C</b></sub> | <img src="https://cdn.simpleicons.org/cplusplus/00599c" width="26"><br><sub><b>C++</b></sub> | <img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="26"><br><sub><b>Tailwind</b></sub> | <img src="https://cdn.simpleicons.org/prisma/2d3748" width="26"><br><sub><b>Prisma</b></sub> |
-
-</div>
+<table>
+<tbody>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/typescript/3178c6" width="28"><br><sub><b>TypeScript</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/rust/000000" width="28"><br><sub><b>Rust</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/electron/47848f" width="28"><br><sub><b>Electron</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/react/61dafb" width="28"><br><sub><b>React</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="28"><br><sub><b>Node.js</b></sub></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/python/3776ab" width="28"><br><sub><b>Python</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/c/959595" width="28"><br><sub><b>C</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/cplusplus/00599c" width="28"><br><sub><b>C++</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="28"><br><sub><b>Tailwind</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/prisma/2d3748" width="28"><br><sub><b>Prisma</b></sub></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -53,13 +55,16 @@ Creo aplicaciones que resuelven problemas reales, con especial atención al rend
 
 ## 🛠️ Herramientas & Entorno
 
-<div align="center">
-
-| | | | |
-|---|---|---|---|
-| <img src="https://cdn.simpleicons.org/git/f05032" width="26"><br><sub><b>Git</b></sub> | <img src="https://cdn.simpleicons.org/github/181717" width="26"><br><sub><b>GitHub</b></sub> | <img src="https://cdn.simpleicons.org/docker/2496ed" width="26"><br><sub><b>Docker</b></sub> | <img src="https://cdn.simpleicons.org/vite/646cff" width="26"><br><sub><b>Vite</b></sub> |
-
-</div>
+<table>
+<tbody>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/git/f05032" width="28"><br><sub><b>Git</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/github/181717" width="28"><br><sub><b>GitHub</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/docker/2496ed" width="28"><br><sub><b>Docker</b></sub></td>
+<td><img src="https://cdn.simpleicons.org/vite/646cff" width="28"><br><sub><b>Vite</b></sub></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
