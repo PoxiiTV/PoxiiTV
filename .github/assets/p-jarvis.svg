@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300" role="img" aria-labelledby="t d" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+<title id="t">JARVIS — consola de voz y visión</title>
+<desc id="d">Mockup de la interfaz de desktock JARVIS: panel izquierdo con grafos de nodos 3D y panel derecho con terminal de comandos y forma de onda de voz.</desc>
+<style>
+.m{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+text{text-rendering:geometricPrecision}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e9f2fc"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="460" height="300" rx="14" fill="url(#bg)"/>
+<rect x="16" y="16" width="428" height="268" rx="10" fill="#ffffff" stroke="#d5e1ee" stroke-width="1"/>
+<circle cx="33" cy="37" r="4" fill="#e6e9ee"/>
+<circle cx="47" cy="37" r="4" fill="#e6e9ee"/>
+<circle cx="61" cy="37" r="4" fill="#e6e9ee"/>
+<text x="78" y="41" class="m" font-size="10" letter-spacing="1.2" fill="#8b949e">J.A.R.V.I.S // HERMES AGENT</text>
+<line x1="16" y1="56" x2="444" y2="56" stroke="#f0f2f6" stroke-width="1"/>
+<rect x="24" y="64" width="196" height="212" rx="8" fill="#f7fafd" stroke="#e2ecf6" stroke-width="1"/>
+<text x="40" y="88" class="m" font-size="9" letter-spacing="1.5" fill="#0284c7">HERMES · AGENTE EN LA LAN</text>
+<g stroke="#9db8d0" stroke-width="1">
+<line x1="60" y1="112" x2="96" y2="96"/><line x1="96" y1="96" x2="128" y2="112"/><line x1="128" y1="112" x2="96" y2="132"/><line x1="96" y1="132" x2="60" y2="112"/>
+<line x1="60" y1="112" x2="150" y2="130"/><line x1="96" y1="96" x2="150" y2="130"/><line x1="128" y1="112" x2="150" y2="130"/><line x1="96" y1="132" x2="150" y2="130"/>
+</g>
+<circle cx="150" cy="130" r="5" fill="#0284c7"/>
+<circle cx="150" cy="130" r="9" fill="none" stroke="#0284c7" stroke-width="1" opacity="0.4"/>
+<g fill="#d9e8f7">
+<circle cx="42" cy="196" r="10"/><circle cx="66" cy="186" r="7"/><circle cx="88" cy="198" r="11"/><circle cx="64" cy="214" r="9"/><circle cx="46" cy="228" r="6"/>
+</g>
+<g stroke="#96b8d8" stroke-width="0.8">
+<line x1="42" y1="196" x2="66" y2="186"/><line x1="66" y1="186" x2="88" y2="198"/><line x1="88" y1="198" x2="64" y2="214"/><line x1="64" y1="214" x2="46" y2="228"/><line x1="42" y1="196" x2="46" y2="228"/><line x1="64" y1="214" x2="150" y2="130"/>
+</g>
+<text x="40" y="252" class="m" font-size="9" fill="#0284c7">● CONECTADO — 1 EQUIPO</text>
+<rect x="230" y="64" width="212" height="212" rx="8" fill="#f7fafd" stroke="#e2ecf6" stroke-width="1"/>
+<text x="246" y="88" class="m" font-size="9" letter-spacing="1.5" fill="#5747c9">VOZ · ESCUCHANDO</text>
+<g fill="#5747c9">
+<rect x="246" y="96" width="5" height="14" rx="2"/><rect x="255" y="88" width="5" height="22" rx="2"/><rect x="264" y="94" width="5" height="16" rx="2"/><rect x="273" y="84" width="5" height="26" rx="2"/><rect x="282" y="90" width="5" height="20" rx="2"/><rect x="291" y="80" width="5" height="30" rx="2"/><rect x="300" y="88" width="5" height="22" rx="2"/><rect x="309" y="96" width="5" height="14" rx="2"/><rect x="318" y="92" width="5" height="18" rx="2"/>
+</g>
+<rect x="246" y="130" width="180" height="88" rx="7" fill="#ffffff" stroke="#dce7f3" stroke-width="1"/>
+<text x="260" y="150" class="m" font-size="8.5" fill="#57606a">$ hermes run --target lan</text>
+<text x="260" y="166" class="m" font-size="8.5" fill="#0284c7">→ ejecutando: instalar_windows</text>
+<text x="260" y="182" class="m" font-size="8.5" fill="#57606a">→ terminal · navegador · archivos</text>
+<text x="260" y="198" class="m" font-size="8.5" fill="#57606a">→ progreso 0…64s ▓▓▓▓░░░░</text>
+<circle cx="260" cy="232" r="9" fill="#0284c7"/>
+<path d="M256 232 l4 4 l8 -9" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="278" y="236" class="m" font-size="9" fill="#0284c7">Acción ejecutada</text>
+</svg>
