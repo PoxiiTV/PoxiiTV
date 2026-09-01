@@ -1,10 +1,58 @@
-**Desarrollador Full Stack & creador de herramientas para Windows.**
+<table width="100%">
+<tr>
 
-Creo aplicaciones que resuelven problemas reales, con especial atención al rendimiento, la experiencia de usuario y una interfaz limpia.
+<td width="62%" valign="top">
 
-`Clean Code` `Rendimiento` `UX/UI` `Innovación`
+<br>
 
-**● Disponible para proyectos freelance y colaboraciones**
+<sub><code>DEV · DESKTOP · WINDOWS</code></sub>
+
+## Desarrollador Full Stack & creador de herramientas para Windows
+
+Creo aplicaciones que resuelven problemas reales, con especial atención al **rendimiento**, la **experiencia de usuario** y una **interfaz limpia**.
+
+- 🧠 Código limpio y mantenible
+- ⚡ Optimizado para volar en cualquier equipo
+- 🎨 Interfaces cuidadas y fáciles de usar
+
+<br>
+
+<kbd>&nbsp;Clean Code&nbsp;</kbd> <kbd>&nbsp;Rendimiento&nbsp;</kbd> <kbd>&nbsp;UX/UI&nbsp;</kbd> <kbd>&nbsp;Innovación&nbsp;</kbd>
+
+<br>
+
+● **Disponible para proyectos freelance y colaboraciones**
+
+</td>
+
+<td width="38%" valign="top">
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<sub><code>DATOS RÁPIDOS</code></sub>
+
+<br><br>
+
+<table>
+<tr><td>💻</td><td><b>Plataforma</b><br><sub>Windows 10 / 11</sub></td></tr>
+<tr><td>🪟</td><td><b>Enfoque</b><br><sub>Apps de escritorio</sub></td></tr>
+<tr><td>🧩</td><td><b>Perfil</b><br><sub>Full Stack</sub></td></tr>
+<tr><td>📍</td><td><b>Ubicación</b><br><sub>Alicante, España</sub></td></tr>
+<tr><td>✨</td><td><b>Idioma</b><br><sub>Software en español</sub></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
