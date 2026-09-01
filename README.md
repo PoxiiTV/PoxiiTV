@@ -24,7 +24,7 @@ Hago **aplicaciones de escritorio para Windows**: herramientas que resuelven pro
 </tr>
 <tr>
 <td width="33.33%"></td>
-<td width="33.33%" valign="top" align="center"><img src=".github/assets/cdtaller-card.png" width="100%" alt="CDTaller — gestión y facturación para talleres"><br><b>CDTaller</b> <em>(privado)</em><br><sub>Programa de gestión para un taller mecánico: coches, clientes, piezas, presupuestos y facturación. Incluye VERI\*FACTU (RD 1007/2023): huella SHA-256 encadenada, numeración sin huecos y documentos inalterables.</sub><br><sub><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code></sub></td>
+<td width="33.33%" valign="top" align="center"><img src=".github/assets/cdtaller-card.png" width="100%" alt="CDTaller — gestión y facturación para talleres"><br><b>CDTaller</b> <em>(privado)</em><br><sub>Programa de gestión para un taller mecánico: coches, clientes, piezas, presupuestos y facturación. Incluye VERI\*FACTU (RD 1007/2023): huella SHA-256 encadenada, numeración sin huecos y documentos inalterables.</sub><br><sub><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code> · <a href="https://controldeltaller.es">web</a></sub></td>
 <td width="33.33%"></td>
 </tr>
 </table>
