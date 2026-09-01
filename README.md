@@ -1,9 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hero-dark.svg">
-  <img alt="Poxi — aplicaciones de escritorio para Windows. Panel de hardware en vivo con CPU, GPU y RAM, y chips con el stack Tauri, React, Rust, Python y Electron." src=".github/assets/hero-light.svg" width="100%">
+  <img alt="Poxi — aplicaciones de escritorio para Windows. Panel de hardware en vivo con CPU, GPU y RAM." src=".github/assets/hero-light.svg" width="100%">
 </picture>
 
-<!-- gallery:start -->
+### ¡Hola! Soy Alexis 👋
+
+Hago **aplicaciones de escritorio para Windows**: herramientas que resuelven problemas concretos, con interfaz cuidada y pensadas para que las use cualquiera, no solo alguien técnico. Casi todo en español.
+
+---
+
+### 🛠️ En qué trabajo
+
 <table width="100%">
 <tr>
 <td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/JARVIS"><img src=".github/assets/jarvis-card.png" width="100%" alt="JARVIS — consola de voz y visión"></a><br><b><a href="https://github.com/PoxiiTV/JARVIS">JARVIS</a></b><br><sub>Interfaz 3D de escritorio con voz y visión. Hermes Agent ejecuta archivos, terminal y navegador en otro equipo de la LAN.</sub><br><sub><code>Python</code> <code>Electron</code> <code>Hermes</code></sub></td>
@@ -16,14 +23,23 @@
 <td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/Dayly"><img src=".github/assets/dayly-card.png" width="100%" alt="Dayly — agenda y productividad"></a><br><b><a href="https://github.com/PoxiiTV/Dayly">Dayly</a></b><br><sub>Calendario, mi día con time-blocking, tareas, notas, proyectos, hábitos y objetivos en una PWA instalable.</sub><br><sub><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Prisma</code> · <a href="https://poxiitv.github.io/Dayly/">live</a></sub></td>
 </tr>
 </table>
-<!-- gallery:end -->
 
-<!-- crystal:start -->
-<p align="center">
-  <a href="https://github.com/PoxiiTV/PoxiiTV/issues/new?title=support&body=Nada+aqui+necesita+cambios.+Pulsa+Create."><img src=".github/assets/support.svg" alt="Estuve aquí — 1 persona ha dejado una célula. Haz clic para dejar la tuya."></a>
-</p>
-<!-- crystal:end -->
+---
 
-<img src=".github/assets/orbit.svg" width="100%" alt="Órbita animada con tres anillos en azul, índigo y rosa sobre el monograma PX.">
+### 🧰 Con qué trabajo
+
+| Área | Stack |
+|---|---|
+| **Lenguajes** | TypeScript · JavaScript · Rust · C · Python · HTML · CSS |
+| **Interfaz** | React · React Router · Zustand · CSS moderno, sin frameworks |
+| **Escritorio** | Electron · Node.js · electron-builder — instaladores y versiones portables para Windows |
+| **Herramientas** | Vite · Vitest · Git · GitHub · npm |
+| **Y además** | Cifrado AES-256 y firmas SHA-256 · consumo de APIs REST · almacenamiento local y copias de seguridad · pruebas automatizadas · normativa española de facturación electrónica (VERI\*FACTU) y protección de datos (RGPD) |
+
+### 📬 Contacto
+
+Abierto a proyectos y oportunidades. 📧 [alexissjuarezz10@gmail.com](mailto:alexissjuarezz10@gmail.com)
+
+---
 
 <sub>España · <a href="https://github.com/PoxiiTV">PoxiiTV</a></sub>
