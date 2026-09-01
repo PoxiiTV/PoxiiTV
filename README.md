@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hero-dark.svg">
-  <img alt="Alexis — aplicaciones de escritorio para Windows. Una onda pendular con un brazo por repositorio público y una animación de perseguida." src=".github/assets/hero-light.svg" width="100%">
+  <img alt="Poxi — aplicaciones de escritorio para Windows. Panel de hardware en vivo con CPU, GPU y RAM, y chips con el stack Tauri, React, Rust, Python y Electron." src=".github/assets/hero-light.svg" width="100%">
 </picture>
 
 <!-- gallery:start -->
