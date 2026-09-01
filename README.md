@@ -23,8 +23,8 @@ Hago **aplicaciones de escritorio para Windows**: herramientas que resuelven pro
 <td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/Dayly"><img src=".github/assets/dayly-card.png" width="100%" alt="Dayly — agenda y productividad"></a><br><b><a href="https://github.com/PoxiiTV/Dayly">Dayly</a></b><br><sub>Calendario, mi día con time-blocking, tareas, notas, proyectos, hábitos y objetivos en una PWA instalable.</sub><br><sub><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Prisma</code> · <a href="https://poxiitv.github.io/Dayly/">live</a></sub></td>
 </tr>
 <tr>
+<td width="33.33%" valign="top"><img src=".github/assets/cdtaller-card.png" width="100%" alt="CDTaller — gestión y facturación para talleres"><br><b>CDTaller</b> <em>(privado)</em><br><sub><a href="https://controldeltaller.es">controldeltaller.es</a></sub><br><sub>Programa de gestión para un taller mecánico: coches, clientes, piezas, presupuestos y facturación. Incluye VERI\*FACTU (RD 1007/2023): huella SHA-256 encadenada, numeración sin huecos y documentos inalterables.</sub><br><sub><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code></sub></td>
 <td width="33.33%"></td>
-<td width="33.33%" valign="top" align="center"><img src=".github/assets/cdtaller-card.png" width="100%" alt="CDTaller — gestión y facturación para talleres"><br><b>CDTaller</b> <em>(privado)</em><br><sub><a href="https://controldeltaller.es">controldeltaller.es</a></sub><br><sub>Programa de gestión para un taller mecánico: coches, clientes, piezas, presupuestos y facturación. Incluye VERI\*FACTU (RD 1007/2023): huella SHA-256 encadenada, numeración sin huecos y documentos inalterables.</sub><br><sub><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code></sub></td>
 <td width="33.33%"></td>
 </tr>
 </table>
