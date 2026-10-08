@@ -12,7 +12,7 @@
 <a href="https://github.com/PoxiiTV/Ruxi-Custom-Rufus"><img src=".github/assets/v3/ruxi-card.png" width="32%" alt="Ruxi Custom Rufus"></a>
 <a href="https://github.com/PoxiiTV/PoxiOptimizer"><img src=".github/assets/v3/poxiopt-card.png" width="32%" alt="PoxiOptimizer"></a>
 <a href="https://github.com/PoxiiTV/HW-Poxi"><img src=".github/assets/v3/hwpoxi-card.png" width="32%" alt="HW-Poxi"></a>
-<a href="https://github.com/PoxiiTV/poxifat"><img src=".github/assets/v3/poxifat-card.png" width="32%" alt="poxifat"></a>
+<a href="https://github.com/PoxiiTV/poxifat"><img src=".github/assets/v3/poxifat-card.png" width="32%" alt="Poxifat"></a>
 <a href="https://github.com/PoxiiTV/Dayly"><img src=".github/assets/v3/dayly-card.png" width="32%" alt="Dayly"></a>
 <a href="https://controldeltaller.es"><img src=".github/assets/v3/cdtaller-card.png" width="32%" alt="CDTaller"></a>
 <a href="https://github.com/PoxiiTV?tab=repositories"><img src=".github/assets/v3/more-card.png" width="32%" alt="Y muchos más: ver todos los repositorios"></a>
