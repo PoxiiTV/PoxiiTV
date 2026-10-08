@@ -83,19 +83,19 @@ Creo aplicaciones que resuelven problemas reales, con especial atención al **re
 
 <table width="100%">
 <tr>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/JARVIS"><img src=".github/assets/v2/jarvis-card.png" width="100%" alt="JARVIS"></a><br><b><a href="https://github.com/PoxiiTV/JARVIS">JARVIS</a></b><br><sub>Interfaz 3D de escritorio con voz y visión. Hermes Agent ejecuta archivos, terminal y navegador en otro equipo de la LAN.</sub><br><sub><code>Python</code> <code>Electron</code> <code>Hermes</code></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/Ruxi-Custom-Rufus"><img src=".github/assets/v2/ruxi-card.png" width="100%" alt="Ruxi"></a><br><b><a href="https://github.com/PoxiiTV/Ruxi-Custom-Rufus">Ruxi Custom Rufus</a></b><br><sub>Instala Windows 10/11 desde un USB con guía paso a paso.</sub><br><sub><code>1★</code> <code>C</code> <code>GPL-3.0</code></sub><br><sub><a href="https://poxiitv.github.io/Ruxi-Custom-Rufus/"><kbd>&nbsp;🌐 Web del proyecto →&nbsp;</kbd></a></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/PoxiOptimizer"><img src=".github/assets/v2/poxiopt-card.png" width="100%" alt="PoxiOptimizer"></a><br><b><a href="https://github.com/PoxiiTV/PoxiOptimizer">PoxiOptimizer</a></b><br><sub>Optimizar, limpiar y reparar Windows 10/11 desde un solo sitio.</sub><br><sub><code>2★</code> <code>TypeScript</code></sub></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/PoxiLauncher"><img src=".github/assets/v3/poxilauncher-card.png" width="100%" alt="PoxiLauncher"></a></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/JARVIS"><img src=".github/assets/v3/jarvis-card.png" width="100%" alt="JARVIS"></a></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/Ruxi-Custom-Rufus"><img src=".github/assets/v3/ruxi-card.png" width="100%" alt="Ruxi Custom Rufus"></a></td>
 </tr>
 <tr>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/HW-Poxi"><img src=".github/assets/v2/hwpoxi-card.png" width="100%" alt="HW-Poxi"></a><br><b><a href="https://github.com/PoxiiTV/HW-Poxi">HW-Poxi</a></b><br><sub>Temperatura, frecuencia, voltaje y potencia del sistema en tiempo real.</sub><br><sub><code>2★</code> <code>TypeScript</code></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/poxifat"><img src=".github/assets/v2/poxifat-card.png" width="100%" alt="poxifat"></a><br><b><a href="https://github.com/PoxiiTV/poxifat">poxifat</a></b><br><sub>Formatea USB y discos a FAT32 sin el límite de 32 GB, o a exFAT/NTFS.</sub><br><sub><code>Rust</code></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/Dayly"><img src=".github/assets/v2/dayly-card.png" width="100%" alt="Dayly"></a><br><b><a href="https://github.com/PoxiiTV/Dayly">Dayly</a></b><br><sub>Calendario, mi día con time-blocking, tareas, notas, proyectos, hábitos y objetivos en una PWA instalable.</sub><br><sub><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Prisma</code></sub><br><sub><a href="https://poxiitv.github.io/Dayly/"><kbd>&nbsp;🚀 Abrir demo →&nbsp;</kbd></a></sub></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/PoxiOptimizer"><img src=".github/assets/v3/poxiopt-card.png" width="100%" alt="PoxiOptimizer"></a></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/HW-Poxi"><img src=".github/assets/v3/hwpoxi-card.png" width="100%" alt="HW-Poxi"></a></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/poxifat"><img src=".github/assets/v3/poxifat-card.png" width="100%" alt="poxifat"></a></td>
 </tr>
 <tr>
-<td width="33.33%" valign="top"><a href="https://controldeltaller.es"><img src=".github/assets/cdtaller-card.png" width="100%" alt="CDTaller"></a><br><b>CDTaller</b> <em>(privado)</em><br><sub><a href="https://controldeltaller.es">controldeltaller.es</a></sub><br><sub>Programa de gestión para talleres mecánicos con facturación VERI\*FACTU: huella SHA-256 encadenada, numeración sin huecos y documentos inalterables. AES-256 y RGPD.</sub><br><sub><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code></sub><br><sub><a href="https://controldeltaller.es"><kbd>&nbsp;🌐 Abrir web →&nbsp;</kbd></a></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/PoxiiTV/Panel-TEMPERATURAS"><img src=".github/assets/v2/panel-temp-card.png" width="100%" alt="Panel-TEMPERATURAS"></a><br><b><a href="https://github.com/PoxiiTV/Panel-TEMPERATURAS">Panel-TEMPERATURAS</a></b><br><sub>Panel para mostrar temperaturas en tiempo real.</sub><br><sub><code>HTML</code></sub><br><sub><a href="https://poxiitv.github.io/Panel-TEMPERATURAS/"><kbd>&nbsp;🚀 Abrir demo →&nbsp;</kbd></a></sub></td>
-<td width="33.33%" valign="top"><br><br><a href="https://github.com/PoxiiTV?tab=repositories"><b>Y muchos más…</b></a><br><sub>Siempre trabajando en nuevas ideas y herramientas que solucionen problemas reales.</sub><br><sub><a href="https://github.com/PoxiiTV?tab=repositories">Ver todos los repositorios →</a></sub></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV/Dayly"><img src=".github/assets/v3/dayly-card.png" width="100%" alt="Dayly"></a></td>
+<td width="33.33%"><a href="https://controldeltaller.es"><img src=".github/assets/v3/cdtaller-card.png" width="100%" alt="CDTaller"></a></td>
+<td width="33.33%"><a href="https://github.com/PoxiiTV?tab=repositories"><img src=".github/assets/v3/more-card.png" width="100%" alt="Y muchos más: ver todos los repositorios"></a></td>
 </tr>
 </table>
 
